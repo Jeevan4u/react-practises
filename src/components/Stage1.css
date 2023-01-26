@@ -1,0 +1,28 @@
+.title-player{
+    border-bottom: 2px solid violet;
+}
+
+.lists{
+    background-color: #F7EFE5;
+}
+.list-item{
+   
+    list-style: numeric;
+}
+
+.close{
+    background-color: red;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.action-button{
+    position: absolute;
+    bottom: 10%;
+    left: 80%;
+    padding: 1.25rem;
+    border-radius: 5rem;
+    cursor: pointer;;
+    background-color: #B9F3FC;
+
+}
